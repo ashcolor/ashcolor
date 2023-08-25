@@ -6,6 +6,6 @@
 
 [あしゅログ](https://blog.ashcolor.jp/)
 
-## Chrome Extension
+## ⚙Chrome Extension
 
 - [Chord Dictionary](https://chrome.google.com/webstore/detail/chord-dictionary/lnefagbhokamcaedbeopnhdabkcemkcf)
