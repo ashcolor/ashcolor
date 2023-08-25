@@ -1,7 +1,11 @@
-## 📊PORTFOLIO
+## 📊Portfolio
 
 [ashcolor](https://ashcolor.github.io)
 
-## 📰BLOG
+## 📰Blog
 
 [あしゅログ](https://blog.ashcolor.jp/)
+
+## Chrome Extension
+
+- [Chord Dictionary](https://chrome.google.com/webstore/detail/chord-dictionary/lnefagbhokamcaedbeopnhdabkcemkcf)
